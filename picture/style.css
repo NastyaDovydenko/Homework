@@ -1,8 +1,8 @@
 body {
-    background-color: #a7d994;
+    background-color: #e3f4dc;
     padding: 10px;
-    padding-left: 450px;
-    padding-top: 40px;
+    padding-left: 30px;
+    padding-top: 30px;
 }
 
 .Text {
@@ -15,6 +15,6 @@ body {
 }
 
 .img {
-    border: double 10px #FF9AA2;
+    border: double 5px #FF9AA2;
     padding: 0px;
 }
