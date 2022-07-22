@@ -10,15 +10,15 @@
 .cube {
     position: relative;
     transform-style: preserve-3d;
-    animation: rotate 8s;
+    animation: rotate 15s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
 
 .cube__side {
     position: absolute;
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
 }
 
 .cube__side--front, .cube__side--back {
